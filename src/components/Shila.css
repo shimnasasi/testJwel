@@ -1,0 +1,32 @@
+.shilamain
+{
+    width: 100%;
+    height: 1000px;
+    background-color: rgb(227, 224, 224);
+    display: flex;
+    flex-direction: column;
+}
+.shilaimg
+{
+    width: 990px;
+    height: 500px;
+    margin-left: 40px;
+    margin-top: 70px;
+    position: absolute;
+}
+.btnn
+{
+    background-color:rgb(211, 209, 209);
+    height: 40px;
+    width: 200px;
+    z-index: 2;
+    margin-top: 430px;
+    margin-left: 800px;
+    border-radius: 5px;
+    border: none;
+}
+.h2
+{
+    display: flex;
+    justify-content: center;
+}
